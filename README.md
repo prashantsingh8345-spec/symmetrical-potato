@@ -1,4 +1,4 @@
 # gitbyte
-this is my first git repository.
+This is my first git repository.
 <br>
-author- Prashant Singh.
+Author- Prashant Singh.
